@@ -1,0 +1,7 @@
+make sure you install the following with pip
+
+pyttsx3
+requests
+wikipedia
+
+otherwise it won't work.
